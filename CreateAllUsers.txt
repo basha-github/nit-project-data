@@ -1,0 +1,16 @@
+// Add all Users
+
+[
+    {
+        "name":"Abdul",
+        "password":"1234"
+    },
+    {
+        "name":"CR",
+        "password":"4321"
+    },
+    {
+        "name":"Somu",
+        "password":"4444"
+    }
+]
